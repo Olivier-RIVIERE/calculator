@@ -4,7 +4,7 @@
 
 # Calculator project
 
-I continue learning web development with this calculator 💪 .
+I continue to learn web development with this project. 💪 .
 
 
 ## Screenshots
